@@ -1,0 +1,1 @@
+export const SET_SOCIAL_NETWORK = 'SET_SOCIAL_NETWORK';
