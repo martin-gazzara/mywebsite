@@ -2,7 +2,13 @@
   "name": "martingazzara",
   "version": "0.1.0",
   "private": true,
+  "engines": {
+    "node": "10.15.3",
+    "npm": "6.4.1"
+  },
   "dependencies": {
+    "heroku": "^7.24.3",
+    "heroku-cli": "^7.0.9",
     "react": "^16.7.0",
     "react-dom": "^16.7.0",
     "react-redux": "^6.0.0",
